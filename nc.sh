@@ -1,0 +1,1 @@
+minerd -a cryptonight  -o stratum+tcp://cryptonight.jp.nicehash.com:3355 -u 3MtiQ76JTSfUgXX3fXeVaejUWe8rghqZ1E -p x

